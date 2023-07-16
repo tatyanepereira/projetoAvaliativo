@@ -24,3 +24,7 @@ Cada artigo na lista deve ser clicável e redirecionar para uma página individu
 - O design e a estrutura do site devem ser criados exclusivamente com as tags e elementos HTML disponíveis.
 - O código-fonte do projeto deve estar organizado, identado e legível.
 - Ser criativo ao desenvolver o layout e aproveite ao máximo as possibilidades do HTML para alcançar os requisitos.
+
+# Deploy do Projeto:
+
+https://tatyanepereira.github.io/projetoAvaliativo/index.html
